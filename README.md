@@ -95,8 +95,6 @@ Este projeto é uma API RESTful criada com AdonisJS para gerenciamento de usuár
    npm start
    ```
 
-   - Acesse o aplicativo no navegador visitando [http://localhost:3333/](http://localhost:3333/).
-
 ## EXEMPLOS DE REQUISIÇÕES:
 - **Registro de Usuário**
   ```bash
